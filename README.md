@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Imece Finance<br>🌱 I’m currently learning NodeJs and React
+🌱 I’m currently learning NodeJs and Kotlin
 
 
 ## 🌐 Socials:
