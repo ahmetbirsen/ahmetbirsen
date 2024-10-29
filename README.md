@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NodeJs and Kotlin
-🌱 I’m currently learning Web3 in RiseIn
+🌱 I’m currently work on Android
 
 
 ## 🌐 Socials:
